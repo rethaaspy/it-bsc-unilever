@@ -17,7 +17,5 @@ The dataset used in this project includes various metrics relevant to the perfor
 
 
 ## Preview Dashboard 
-
-
 https://github.com/rethaaspy/it-bsc-unilever/assets/132975478/eca9d2a7-878d-4e5c-b518-70271453370a
 
